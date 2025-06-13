@@ -1,0 +1,2 @@
+# SpringBootJpaEntityUniqueConstraintWithIndex
+SpringBootJpaEntityUniqueConstraintWithIndex
